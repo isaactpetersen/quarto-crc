@@ -5,6 +5,8 @@ This is a Quarto book.
 
 ## Software conventions {.unnumbered}
 
+This code errors out if I remove both code chunks (i.e., the one below AND the one in `intro.qmd`):
+
 ```{python}
 1 + 1
 ```
